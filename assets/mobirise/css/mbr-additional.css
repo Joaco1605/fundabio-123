@@ -10260,6 +10260,30 @@ body {
 .cid-rAcOuJU0hv .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rAJDbJTMD5 {
+  background: #ffffff;
+  padding-top: 90px;
+  padding-bottom: 60px;
+}
+.cid-rAJDbJTMD5 .image-block {
+  margin: auto;
+}
+.cid-rAJDbJTMD5 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rAJDbJTMD5 figcaption {
+  position: relative;
+}
+.cid-rAJDbJTMD5 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rAJDbJTMD5 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rAcOuJU0hv .navbar {
   padding: .5rem 0;
   background: #333333;

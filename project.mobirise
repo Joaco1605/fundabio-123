@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FUNBIO GRUPO15",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -304,7 +304,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/features18/../_images/background5.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -338,7 +338,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/background3.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,

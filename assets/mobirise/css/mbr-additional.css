@@ -589,8 +589,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -3344,14 +3344,14 @@ body {
 }
 .cid-rAKf5cznWc {
   padding-top: 120px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rAKf5cznWc .mbr-section-subtitle {
   color: #767676;
 }
 .cid-rAKcpyUoOZ {
-  padding-top: 45px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -3360,7 +3360,7 @@ body {
   text-align: left;
 }
 .cid-rAnIWtaCL1 {
-  padding-top: 105px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }

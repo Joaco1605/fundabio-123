@@ -3342,8 +3342,16 @@ body {
 .cid-rAcOuJU0hv .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rAKcpyUoOZ {
+.cid-rAKf5cznWc {
   padding-top: 120px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rAKf5cznWc .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rAKcpyUoOZ {
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }

@@ -2343,7 +2343,7 @@
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
               "color": "#767676",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "content4",
